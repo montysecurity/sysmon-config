@@ -1,3 +1,7 @@
+# Changes from fork
+
+This fork does not log any DNS events (event code 22). As seen on lines 921-924.
+
 # sysmon-config | A Sysmon configuration file for everybody to fork #
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.
